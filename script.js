@@ -74,7 +74,8 @@ switch (yes.length) {
         case 5:
         console.log(final5);
         break;
-    default:
+        
+        default:
         break;
 }
 

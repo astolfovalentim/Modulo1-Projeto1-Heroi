@@ -1,6 +1,6 @@
 // PROJETO 1 - A JORNADA DO HERÓI
 
-var prompt = require("prompt-sync")();
+const prompt = require("prompt-sync")();
 
 //Variáveis e listas---------------------------------------------------------
 
